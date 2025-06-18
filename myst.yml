@@ -1,12 +1,12 @@
 version: 1
 extends:
-  - https://raw.githubusercontent.com/projectpythia-mystmd/pythia-config/main/pythia.yml
+  - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
   title: XGCM Cookbook
   authors:
     - name: Project Pythia Community
       url: https://projectpythia.org/
-  github: https://github.com/projectpythia-mystmd/xgcm-cookbook
+  github: https://github.com/projectpythia/xgcm-cookbook
   copyright: '2024'
   toc:
     - file: README.md
@@ -15,9 +15,4 @@ project:
         - file: notebooks/notebook-template.ipynb
   jupyter:
       binder:
-        repo: projectpythia-mystmd/xgcm-cookbook
-site:
-  options:
-    logo: notebooks/images/logos/pythia_logo-white-rtext.svg
-    folders: true
-  template: book-theme
+        repo: projectpythia/xgcm-cookbook
