@@ -1,1 +1,0 @@
-import{a}from"/xgcm-cookbook/_preview/32/build/_shared/chunk-OEGYZSRB.js";import"/xgcm-cookbook/_preview/32/build/_shared/chunk-3MZURCDM.js";import"/xgcm-cookbook/_preview/32/build/_shared/chunk-2NH4LW52.js";export default a();
